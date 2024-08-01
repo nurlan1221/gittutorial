@@ -10,6 +10,7 @@ public class GittutorialApplication {
 
 		SpringApplication.run(GittutorialApplication.class, args);
 		System.out.println("Nurlan");
+		System.out.println("TEST branch");
 	}
 
 }
