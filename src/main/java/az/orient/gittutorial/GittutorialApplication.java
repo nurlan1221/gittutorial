@@ -9,7 +9,7 @@ public class GittutorialApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(GittutorialApplication.class, args);
-		System.out.println("Nurlan");
+		System.out.println("Nurlan's changes");
 		System.out.println("TEST branch");
 	}
 
