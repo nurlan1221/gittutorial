@@ -8,6 +8,7 @@ public class GittutorialApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GittutorialApplication.class, args);
+		System.out.println("Ali branch");
 		System.out.println("Nurlan branch");
 	}
 
