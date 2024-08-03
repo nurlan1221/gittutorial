@@ -10,6 +10,8 @@ public class GittutorialApplication {
 		SpringApplication.run(GittutorialApplication.class, args);
 		System.out.println("Ali branch");
 		System.out.println("Nurlan branch");
+		System.out.println("X branch");
+
 	}
 
 }
