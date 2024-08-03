@@ -1,2 +1,4 @@
-package az.orient.gittutorial;public class X {
+package az.orient.gittutorial;
+
+public class X {
 }
